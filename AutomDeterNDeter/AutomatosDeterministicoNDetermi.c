@@ -1,12 +1,8 @@
-//JOAO TESUDO SEU LINDO CACHORRÃO!!!!
-
 #include <stdlib.h> 
 #include <stdio.h>
 #include <string.h>
 #include <ctype.h>
-/* Alunos: João Martins RA: 1552260
- * 		 	Felipe Minorelli RA: 1551167
-*/
+
 int main (){
 	
 	FILE *fp = fopen("testeAutomatosDetermNDetermi.txt", "r"); 

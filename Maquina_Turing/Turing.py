@@ -1,9 +1,3 @@
-'''
-Felipe Torres Minorelli 1551167
-Luiz Felipe Fronchetti 1552309
-Joao Martins Filho 1552260
-'''
-
 class Node(object):
  
     def __init__(self, data, prev, next):

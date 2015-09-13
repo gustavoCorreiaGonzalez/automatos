@@ -1,7 +1,3 @@
-# Linguagens formais, automatos e computabilidade (BCC34B-IC4A)
-# Aluno: Luiz Felipe Fronchetti Dias RA: 1552309
-# 			João Martins Filho			 RA: 1552260
-#			Felipe Minorelli				 RA: 1551167
 import traceback
 import sys
 
