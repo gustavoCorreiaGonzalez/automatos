@@ -1,5 +1,5 @@
 Estes arquivos consistem nos Trabalhos da Matéria de Teoria da Computação
-
+GUSTAVO LINDO!!
 Encontram-se as seguintes implementações:
 
 Automatos Deterministico e Não Deterministico na linguagem C
